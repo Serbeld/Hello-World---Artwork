@@ -30,3 +30,7 @@ I created a video with a text background in a loop "Hello World By Sergio Beleñ
 I created the final video adding an intro and overlapping the image with the loop video.
 
 ![](short_video.gif)
+
+To watch the final video you can open the following link:
+
+    https://youtu.be/ELUE49hovRU
